@@ -4,6 +4,10 @@ I created this GitHub profile when I was studied ISAM at Rey Juan Carlos Univers
 
 Now, I use this profile to improve and learn HTML, Javascript and CSS.
 
+# About me
+
+I am Manuel Salcedo and I'm 23 years old. I was born in Madrid, Spain :es: . I was studied "Ingeniería de Sistemas Audiovisuales y Multimedia" at Rey Juan Carlos University. I like program in HTML and JS although I can make programs with other programming languages like Python :computer: .
+
 ## What am I doing?
 
 Now, I am developing my practices of "LTAW" subject.
