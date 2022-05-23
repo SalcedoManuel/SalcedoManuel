@@ -4,7 +4,7 @@ I created this GitHub profile when I was studied ISAM at Rey Juan Carlos Univers
 
 Now, I use this profile to improve and learn HTML, Javascript and CSS.
 
-## What am I doing now?
+## What am I doing?
 
 Now, I am developing my practices of "LTAW" subject.
   
