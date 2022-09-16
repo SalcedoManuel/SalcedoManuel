@@ -12,14 +12,19 @@ I am Manuel Salcedo and I'm 23 years old. I was born in Madrid, Spain :es: . I w
 
 Now, I am developing my practices of "LTAW" subject.
   
-  * I'm adding more options and improving the web of Cubingenio (My fictitious website store). 
-  * I'm developing a better opening website Chat.
+  * I am creating an app/web to manage strategies and tires of "F12021" and in a future, "F1 Manager". 
  
-You can see it here :point_right: [P5](https://github.com/SalcedoManuel/2020-2021-LTAW-Practicas/tree/main/P5) 
+You can see it here :point_right: [F1](https://github.com/SalcedoManuel/F1-Management) 
+
+  * I am developing a app to get and analize soundscape quizs data.
+
+You can see it here :point_right: [Soundscape App](https://github.com/SalcedoManuel/Paisajes-Sonoros)
 
 ## What have I already done?
 
-In Proyectos repository I have some projects like English Questionaries. :gb:
+  * In Proyectos repository I have some projects like English Questionaries. :gb:
+  * I'm adding more options and improving the web of Cubingenio (My fictitious website store). 
+  * I'm developing a better opening website Chat.
 <!--
 **SalcedoManuel/SalcedoManuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
